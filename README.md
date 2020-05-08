@@ -1,4 +1,4 @@
-# vue-auth
+# ums
 
 ## Project setup
 ```
